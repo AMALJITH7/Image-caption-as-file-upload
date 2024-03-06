@@ -1,0 +1,28 @@
+form{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: stretch;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 12rem;
+    margin-left: 30px;
+}
+/* body{
+    background: url("captioning-banner.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+} */
+button{
+    background-color:  #e5f72f;;
+}
+center{
+    margin-top:8rem;
+    font-style: oblique;
+    font-weight: bolder;
+}
+h1{
+    font-style: oblique;
+    font-weight: bolder;
+}
